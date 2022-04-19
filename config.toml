@@ -40,6 +40,9 @@ googleAnalytics = ""
       #  # Optional integrity check hash
       #  hash = ""
 
+[markup.goldmark.renderer]
+unsafe = true
+
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Project"

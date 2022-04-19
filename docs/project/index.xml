@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Kouta Kikuchi - kikportfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:50:47 +0530</lastBuildDate><atom:link href="https://kikpond15.github.io/portfolio/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 18:12:09 +0900</lastBuildDate><atom:link href="https://kikpond15.github.io/portfolio/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Name of the work 2</title>
       <link>https://kikpond15.github.io/portfolio/project/work2/</link>
@@ -32,6 +32,16 @@
       
       <guid>https://kikpond15.github.io/portfolio/project/work4/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kage User Interface</title>
+      <link>https://kikpond15.github.io/portfolio/project/kui/</link>
+      <pubDate>Sun, 17 Apr 2022 18:12:09 +0900</pubDate>
+      
+      <guid>https://kikpond15.github.io/portfolio/project/kui/</guid>
+      <description>&lt;p&gt;A Study for Shadow Based Physical Object Interaction Using Real Shadow as an Interface&lt;br&gt;
+&lt;span style=&#34;color: blue; &#34;&gt;Research&lt;/span&gt; 2017&lt;/p&gt;</description>
     </item>
     
     <item>
