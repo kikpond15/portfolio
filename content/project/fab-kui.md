@@ -6,7 +6,7 @@ showonlyimage = false
 date = 2022-04-17T20:03:34+09:00
 weight = 22
 +++
-FabKUI : Proposal of Collaborative 3D Modeling Method in Real Space by using KUI and Smartphone AR  
+Proposal of Collaborative 3D Modeling Method in Real Space by using KUI and Smartphone AR  
 <span style="color: blue; ">Research</span> 2022
 <!--more-->
 近年の3Dモデリング環境の動向として，ネットワークを通じて複数人での同時編集がサポートされ，オンラインやVR空間でコミュニケーションを取りながら3Dモデリングを行うことが可能になってきている．
