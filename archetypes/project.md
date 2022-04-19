@@ -3,6 +3,6 @@ title = "Titel"
 draft = false
 image = ""
 showonlyimage = false
-date = ""
+date = {{ .Date }}
 weight = 0
 +++
