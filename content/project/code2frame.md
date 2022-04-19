@@ -21,5 +21,5 @@ Code to Frameの展示形態は、あえて動的なデジタルアートの1フ
 - [code to frame web site](https://c2f.p5js.jp/)
 - [make code2frame](https://kikpond15.github.io/code2frame/)
 
-![code to frame DM](/img/project/code2frame.png)
-![code to frame EX](/img/project/code2frame01.jpg)
+![code to frame DM](../../img/project/code2frame.png)
+![code to frame EX](../../img/project/code2frame01.jpg)
