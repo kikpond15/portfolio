@@ -5,17 +5,36 @@ Using [Hugo](https://gohugo.io/) framework and [kishaningithub/hugo-creative-por
 
 ## How to hugo
 
+create new site
+
+```
+hugo new site siteName
+```
+
 add new content
+
 ```
 hugo new  directory/contentName.md
 ```
 
-view site(local) 
+view site(local)
+
 ```
 hugo serever -D
 ```
 
+builds site
+
+```
+hugo 
+#or
+hugo -D
+```
+
+
+
 delete content apply
+
 ```
 hugo --cleanDestinationDir
 ```
