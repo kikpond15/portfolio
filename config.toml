@@ -1,4 +1,4 @@
-baseurl = "https://kikpond15.github.io/portfolio/"
+baseurl = "https://www.kikpond.com"
 title = "Kouta Kikuchi - kikportfolio"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "docs"
@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Describe your website"
+  description = "This website is　Kouta Kikuchi's portfolio site."
   copyright = "&copy;2022 Kouta Kikuchi"
   sidebarAbout = [
   ]
@@ -69,4 +69,6 @@ unsafe = true
   #twitter       = "full profile url in twitter"
   instagram     = "https://www.instagram.com/kikpond15/?hl=ja"
   github        = "https://github.com/kikpond15"
-  youtube       = "https://www.youtube.com/channel/UCz9JIjYIuE6UuiCTvhGTZwQ/featured"
+  #youtube       = "https://www.youtube.com/channel/UCz9JIjYIuE6UuiCTvhGTZwQ/featured"
+  vimeo         = "https://vimeo.com/user81492252"
+  openprocessing = "https://openprocessing.org/user/210411"
