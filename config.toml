@@ -39,6 +39,7 @@ googleAnalytics = ""
       #  # Optional integrity check hash
       #  hash = ""
 
+
 [markup.goldmark.renderer]
 unsafe = true
 
