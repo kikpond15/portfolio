@@ -17,11 +17,10 @@ Code to Frameの展示形態は、あえて動的なデジタルアートの1フ
 鑑賞者へ静的な額縁として提示します。鑑賞者は額縁下部のQRコードを読み取る事で、
 そのフレームに隠された動的なデジタルアートを自らの意思で鑑賞しに行くことが出来ます。
 
-
-- [code to frame web site](https://c2f.p5js.jp/)
-- [make code2frame](https://kikpond15.github.io/code2frame/)
-- [展示](https://c2f.p5js.jp/exhibitions/1st.html)
-- [ワークショップ](https://openlab.is.meisei-u.ac.jp/2021/11/29/139/)
+- <a href="https://c2f.p5js.jp/" target="_blank">code to frame web site</a>
+- <a href="https://kikpond15.github.io/code2frame/" target="_blank">make code2frame</a>
+- <a href="https://c2f.p5js.jp/exhibitions/1st.html" target="_blank">展示</a>
+- <a href="https://openlab.is.meisei-u.ac.jp/2021/11/29/139/" target="_blank">ワークショップ</a>
 
 ![code to frame DM](../../img/project/code2frame.png)
 ![code to frame EX](../../img/project/code2frame01.jpg)

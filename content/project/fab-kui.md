@@ -20,6 +20,6 @@ Proposal of Collaborative 3D Modeling Method in Real Space by using KUI and Smar
 複数人で3Dモデルを観察する事が可能となる．
 本稿では，これら提案手法の実装方法について述べ，評価実験の結果からシステムの有効性を示す．
 
-- [論文PDF](https://www.art-science.org/journal/v21n1/v21n1pp23/artsci-v21n1pp23.pdf)
+- <a href="https://www.art-science.org/journal/v21n1/v21n1pp23/artsci-v21n1pp23.pdf" target="_blank">論文PDF</a>
 - Video
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/700186811?h=60e8c8427e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Fab KUI demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
