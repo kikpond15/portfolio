@@ -38,19 +38,6 @@
     </item>
     
     <item>
-      <title>openFrameworks &#43; touch panel frame</title>
-      <link>https://www.kikpond.com/project/of-touch-frame/</link>
-      <pubDate>Wed, 18 May 2022 01:24:17 +0900</pubDate>
-      
-      <guid>https://www.kikpond.com/project/of-touch-frame/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2021&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://openframeworks.cc/ja/&#34; target=&#34;_blank&#34;&gt;openFrameworks&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://qiita.com/kikpond15/items/9b0e0f9dd63f7da8dc63&#34; target=&#34;_blank&#34;&gt;Qiita&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
       <title>ofxTello</title>
       <link>https://www.kikpond.com/project/ofxtello/</link>
       <pubDate>Sun, 17 Apr 2022 23:24:37 +0900</pubDate>
@@ -67,6 +54,19 @@ DJI Tello drone addon for openFrameworks&lt;/p&gt;</description>
       
       <guid>https://www.kikpond.com/project/kui-based-puppet/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: blue; &#34;&gt;Research&lt;/span&gt;  2020&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>openFrameworks &#43; touch panel frame</title>
+      <link>https://www.kikpond.com/project/of-touch-frame/</link>
+      <pubDate>Wed, 18 May 2022 01:24:17 +0900</pubDate>
+      
+      <guid>https://www.kikpond.com/project/of-touch-frame/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2021&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://openframeworks.cc/ja/&#34; target=&#34;_blank&#34;&gt;openFrameworks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/kikpond15/items/9b0e0f9dd63f7da8dc63&#34; target=&#34;_blank&#34;&gt;Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
