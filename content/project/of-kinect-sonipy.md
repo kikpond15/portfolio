@@ -1,12 +1,11 @@
 +++
 title = "openFrameworks + kinect + sonicPy"
 draft = false
-image = "img/of-kinect-sonipy.png"
+image = "img/project/of-kinect-sonipy.png"
 showonlyimage = false
 date = 2022-05-18T00:52:46+09:00
 weight = 40
 +++
-
 <span style="color: green; ">Develop</span> 2016  
 
 <!--more-->
