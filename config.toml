@@ -1,5 +1,5 @@
 baseurl = "https://www.kikpond.com"
-title = "Kouta Kikuchi - kikportfolio"
+title = "Kota Kikuchi - kikportfolio"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "docs"
 languageCode = "jp"
@@ -12,8 +12,8 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "This website is　Kouta Kikuchi's portfolio site."
-  copyright = "&copy;2022 Kouta Kikuchi"
+  description = "This website is　Kota Kikuchi's portfolio site."
+  copyright = "&copy;2022 Kota Kikuchi"
   sidebarAbout = [
   ]
   # Contact page
@@ -28,7 +28,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "kikpond15@gmail.com"
+  email = "kota@kikpond.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -66,7 +66,7 @@ unsafe = true
 
   [params.social]
  #facebook      = "full page or profile url in facebook"
-  email         = "kikpond15@gmail.com"
+  email         = "kota@kikpond.com"
   #twitter       = "full profile url in twitter"
   instagram     = "https://www.instagram.com/kikpond15/?hl=ja"
   github        = "https://github.com/kikpond15"
