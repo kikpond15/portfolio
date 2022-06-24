@@ -70,6 +70,6 @@ unsafe = true
   #twitter       = "full profile url in twitter"
   instagram     = "https://www.instagram.com/kikpond15/?hl=ja"
   github        = "https://github.com/kikpond15"
-  #youtube       = "https://www.youtube.com/channel/UCz9JIjYIuE6UuiCTvhGTZwQ/featured"
+  youtube       = "https://www.youtube.com/channel/UCz9JIjYIuE6UuiCTvhGTZwQ/featured"
   vimeo         = "https://vimeo.com/user81492252"
   openprocessing = "https://openprocessing.org/user/210411"
