@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Kota Kikuchi - kikportfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Fri, 24 Jun 2022 14:12:13 +0900</lastBuildDate><atom:link href="https://www.kikpond.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jun 2022 16:15:26 +0900</lastBuildDate><atom:link href="https://www.kikpond.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code to Frame</title>
       <link>https://www.kikpond.com/project/code2frame/</link>
@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>openFrameworks &#43; Lidar Interaction</title>
+      <link>https://www.kikpond.com/project/of-lidar/</link>
+      <pubDate>Fri, 24 Jun 2022 15:46:58 +0900</pubDate>
+      
+      <guid>https://www.kikpond.com/project/of-lidar/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2022&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Fab KUI</title>
       <link>https://www.kikpond.com/project/fab-kui/</link>
       <pubDate>Sun, 17 Apr 2022 20:03:34 +0900</pubDate>
@@ -25,6 +34,15 @@
       <guid>https://www.kikpond.com/project/fab-kui/</guid>
       <description>&lt;p&gt;Proposal of Collaborative 3D Modeling Method in Real Space by using KUI and Smartphone AR&lt;br&gt;
 &lt;span style=&#34;color: blue; &#34;&gt;Research&lt;/span&gt; 2022&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hokusai wave</title>
+      <link>https://www.kikpond.com/project/hokusai-wave/</link>
+      <pubDate>Fri, 24 Jun 2022 16:15:26 +0900</pubDate>
+      
+      <guid>https://www.kikpond.com/project/hokusai-wave/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: red; &#34;&gt;Artwork&lt;/span&gt; / &lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2022&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -91,6 +109,16 @@ DJI Tello drone addon for openFrameworks&lt;/p&gt;</description>
       
       <guid>https://www.kikpond.com/project/shadow-staind-glass/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: red;&#34;&gt;Artwork / Exhibition&lt;/span&gt; 2019&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>micro:bit &#43; Tello drone</title>
+      <link>https://www.kikpond.com/project/mbit-tello/</link>
+      <pubDate>Fri, 24 Jun 2022 15:53:45 +0900</pubDate>
+      
+      <guid>https://www.kikpond.com/project/mbit-tello/</guid>
+      <description>&lt;p&gt;Fly a Tello drone with a microbit&lt;br&gt;
+&lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2019&lt;/p&gt;</description>
     </item>
     
     <item>
