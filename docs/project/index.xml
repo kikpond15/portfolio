@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Kota Kikuchi - kikportfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Wed, 18 May 2022 01:24:17 +0900</lastBuildDate><atom:link href="https://www.kikpond.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Jun 2022 14:12:13 +0900</lastBuildDate><atom:link href="https://www.kikpond.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code to Frame</title>
       <link>https://www.kikpond.com/project/code2frame/</link>
@@ -119,6 +119,24 @@ DJI Tello drone addon for openFrameworks&lt;/p&gt;</description>
       
       <guid>https://www.kikpond.com/project/of-kinect-sonipy/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2016&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Caligula Art</title>
+      <link>https://www.kikpond.com/project/caligula-art/</link>
+      <pubDate>Fri, 24 Jun 2022 14:12:13 +0900</pubDate>
+      
+      <guid>https://www.kikpond.com/project/caligula-art/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: red; &#34;&gt;Artwork&lt;/span&gt; / &lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2021&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tilt Painting</title>
+      <link>https://www.kikpond.com/project/tilt-painting/</link>
+      <pubDate>Fri, 24 Jun 2022 13:13:32 +0900</pubDate>
+      
+      <guid>https://www.kikpond.com/project/tilt-painting/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: red; &#34;&gt;Artwork&lt;/span&gt; / &lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2022&lt;/p&gt;</description>
     </item>
     
   </channel>
