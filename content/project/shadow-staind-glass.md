@@ -4,7 +4,7 @@ title = "Shadow Stained Glass"
 image = "img/project/shadow-staind-glass.png"
 showonlyimage = false
 date = 2022-04-17T23:01:48+09:00
-weight = 26
+weight = -201901
 +++
 
 <span style="color: red;">Artwork / Exhibition</span> 2019

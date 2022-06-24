@@ -4,7 +4,7 @@ title = "Augmented Shadow Media"
 image = "img/project/asm.png"
 showonlyimage = false
 date = 2022-04-17T18:34:17+09:00
-weight = 27
+weight = -201900
 +++
 Study for Interactive Media for Augmenting in Properties of Shadow as Media Using Kage User Interface  
 <span style="color: blue; ">Research</span> 2019

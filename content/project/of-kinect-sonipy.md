@@ -4,7 +4,7 @@ draft = false
 image = "img/project/of-kinect-sonipy.png"
 showonlyimage = false
 date = 2022-05-18T00:52:46+09:00
-weight = 40
+weight = -201600
 +++
 <span style="color: green; ">Develop</span> 2016  
 

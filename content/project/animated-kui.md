@@ -4,7 +4,7 @@ title = "Animated KUI"
 image = "img/project/animatedKUI.jpg"
 showonlyimage = false
 date = 2022-04-16T17:43:12+09:00
-weight = 28
+weight = -201800
 +++
 
 <span style="color: blue; ">Research</span> 2018

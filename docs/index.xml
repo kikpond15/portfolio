@@ -28,12 +28,30 @@
     </item>
     
     <item>
+      <title>Tilt Painting</title>
+      <link>https://www.kikpond.com/project/tilt-painting/</link>
+      <pubDate>Fri, 24 Jun 2022 13:13:32 +0900</pubDate>
+      
+      <guid>https://www.kikpond.com/project/tilt-painting/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: red; &#34;&gt;Artwork&lt;/span&gt; / &lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2022&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>openFrameworks &#43; touch panel frame</title>
       <link>https://www.kikpond.com/project/of-touch-frame/</link>
       <pubDate>Wed, 18 May 2022 01:24:17 +0900</pubDate>
       
       <guid>https://www.kikpond.com/project/of-touch-frame/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2021&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Caligula Art</title>
+      <link>https://www.kikpond.com/project/caligula-art/</link>
+      <pubDate>Fri, 24 Jun 2022 14:12:13 +0900</pubDate>
+      
+      <guid>https://www.kikpond.com/project/caligula-art/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: red; &#34;&gt;Artwork&lt;/span&gt; / &lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2021&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -47,6 +65,15 @@
     </item>
     
     <item>
+      <title>KUI Based Puppet</title>
+      <link>https://www.kikpond.com/project/kui-based-puppet/</link>
+      <pubDate>Sun, 17 Apr 2022 18:40:00 +0900</pubDate>
+      
+      <guid>https://www.kikpond.com/project/kui-based-puppet/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color: blue; &#34;&gt;Research&lt;/span&gt;  2020&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ofxTello</title>
       <link>https://www.kikpond.com/project/ofxtello/</link>
       <pubDate>Sun, 17 Apr 2022 23:24:37 +0900</pubDate>
@@ -54,15 +81,6 @@
       <guid>https://www.kikpond.com/project/ofxtello/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2020&lt;br&gt;
 DJI Tello drone addon for openFrameworks&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>KUI Based Puppet</title>
-      <link>https://www.kikpond.com/project/kui-based-puppet/</link>
-      <pubDate>Sun, 17 Apr 2022 18:40:00 +0900</pubDate>
-      
-      <guid>https://www.kikpond.com/project/kui-based-puppet/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: blue; &#34;&gt;Research&lt;/span&gt;  2020&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -119,24 +137,6 @@ DJI Tello drone addon for openFrameworks&lt;/p&gt;</description>
       
       <guid>https://www.kikpond.com/project/of-kinect-sonipy/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2016&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Caligula Art</title>
-      <link>https://www.kikpond.com/project/caligula-art/</link>
-      <pubDate>Fri, 24 Jun 2022 14:12:13 +0900</pubDate>
-      
-      <guid>https://www.kikpond.com/project/caligula-art/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: red; &#34;&gt;Artwork&lt;/span&gt; / &lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2021&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tilt Painting</title>
-      <link>https://www.kikpond.com/project/tilt-painting/</link>
-      <pubDate>Fri, 24 Jun 2022 13:13:32 +0900</pubDate>
-      
-      <guid>https://www.kikpond.com/project/tilt-painting/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color: red; &#34;&gt;Artwork&lt;/span&gt; / &lt;span style=&#34;color: green; &#34;&gt;Develop&lt;/span&gt; 2022&lt;/p&gt;</description>
     </item>
     
   </channel>

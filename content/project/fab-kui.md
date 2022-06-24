@@ -4,7 +4,7 @@ title = "Fab KUI"
 image = "img/project/fabkui.JPG"
 showonlyimage = false
 date = 2022-04-17T20:03:34+09:00
-weight = 22
+weight = -202201
 +++
 Proposal of Collaborative 3D Modeling Method in Real Space by using KUI and Smartphone AR  
 <span style="color: blue; ">Research</span> 2022

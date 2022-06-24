@@ -4,7 +4,7 @@ title = "Orgel electronica"
 image = "img/project/orgel-electronica.png"
 showonlyimage = false
 date = 2022-04-17T23:37:47+09:00
-weight = 29
+weight = -201701
 +++
 
 <span style="color: red;">Artwork</span> 2017

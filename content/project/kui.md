@@ -4,7 +4,7 @@ title = "Kage User Interface"
 image = "img/project/kui.png"
 showonlyimage = false
 date = 2022-04-17T18:12:09+09:00
-weight = 30
+weight = -201700
 +++
 A Study for Shadow Based Physical Object Interaction Using Real Shadow as an Interface  
 <span style="color: blue; ">Research</span> 2017

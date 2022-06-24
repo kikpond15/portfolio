@@ -4,7 +4,7 @@ title = "KUI-Based Modeling"
 image = "img/project/kuibm02.png"
 showonlyimage = false
 date = 2022-04-17T19:02:21+09:00
-weight = 23
+weight = -202100
 +++
 A study for real world oriented modeling using real shadow as an interface  
 <span style="color: blue; ">Research</span> 2021

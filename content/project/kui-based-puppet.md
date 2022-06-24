@@ -4,7 +4,7 @@ title = "KUI Based Puppet"
 image = "img/project/kui-based-puppet.png"
 showonlyimage = false
 date = 2022-04-17T18:40:00+09:00
-weight = 24
+weight = -202001
 +++
 
 <span style="color: blue; ">Research</span>  2020
