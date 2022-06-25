@@ -1,7 +1,7 @@
 +++
 title = "micro:bit + Tello drone"
 draft = false
-image = "https://i9.ytimg.com/vi/g4B1-_k2RzI/mq2.jpg?sqp=CMS_1ZUG&rs=AOn4CLDo9010KNnKgKglO-U1QeyK2zmgAQ"
+image = "img/project/mbitTello.jpeg"
 showonlyimage = false
 date = 2022-06-24T15:53:45+09:00
 weight = -201900

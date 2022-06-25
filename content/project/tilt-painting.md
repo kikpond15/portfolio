@@ -1,7 +1,7 @@
 +++
 title = "Tilt Painting"
 draft = false
-image = "https://i9.ytimg.com/vi/_1unDEBTwbI/mq3.jpg?sqp=CPyL1ZUG&rs=AOn4CLC6WX_WH-Vz4821MntLeCcP1FaTYg"
+image = "img/project/tiltPainting.jpeg"
 showonlyimage = false
 date = 2022-06-24T13:13:32+09:00
 weight = -202200

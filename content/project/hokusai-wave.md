@@ -1,7 +1,7 @@
 +++
 title = "Hokusai wave"
 draft = false
-image = "https://i9.ytimg.com/vi/OxVzg8H0gd4/mq1.jpg?sqp=CMjG1ZUG&rs=AOn4CLAEwW3j_lG3tiEEc8v8lfhqGFPlMQ"
+image = "img/project/hokusaiWave.jpeg"
 showonlyimage = false
 date = 2022-06-24T16:15:26+09:00
 weight = -202200
