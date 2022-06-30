@@ -33,6 +33,7 @@ title = "Publication"
 
 #### 掲載
 - 2021 Society of Art and Science Publication DiVA, Vol.51 p26. <a href="https://art-science.org/diva/pdf/diva51-hq.pdf#page=26" target="_blank">[PDF]</a>
+- 2022 Society of Art and Science Publication DiVA, Vol.52 p48. <a href="https://art-science.org/diva/pdf/diva52-hq.pdf#page=50" target="_blank">[PDF]</a>
 
 #### Book | 書籍
 - 2022 武富拓也. 学際的PBLにおけるインタラクティブ・システム開発と実践報告 ~ディスコース分析の観点から~, 明星大学情報学部発行, タマプリント出版, ISBN 9784991131738. (共著)

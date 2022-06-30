@@ -21,6 +21,8 @@ Code to Frameの展示形態は、あえて動的なデジタルアートの1フ
 - <a href="https://kikpond15.github.io/code2frame/" target="_blank">make code2frame</a>
 - <a href="https://c2f.p5js.jp/exhibitions/1st.html" target="_blank">展示</a>
 - <a href="https://openlab.is.meisei-u.ac.jp/2021/11/29/139/" target="_blank">ワークショップ</a>
+- <a href="https://art-science.org/diva/pdf/diva52-hq.pdf#page=50" target="_blank">Diva Display</a>
+
 
 ![code to frame DM](../../img/project/code2frame.png)
 ![code to frame EX](../../img/project/code2frame01.jpg)
