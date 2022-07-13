@@ -6,7 +6,7 @@ languageCode = "jp"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "G-HD9EQHDZGG"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -49,16 +49,13 @@ unsafe = true
   url = "project/"
   home = true
 
-
   [[params.navlinks]]
   name = "Profile"
   url = "profile/"
 
-
   [[params.navlinks]]
   name = "Publication"
   url = "publication/"
-
 
   [[params.navlinks]]
   name = "Contact"
