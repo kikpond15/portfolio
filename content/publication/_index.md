@@ -17,7 +17,7 @@ title = "Publication"
 - 2018 K.Kikuchi, T.Amaoka. Kage User Interface : A Study for Shadow Based Physical Object Interaction Using Real Shadow as an Interface, International Colloquium of Mexican & Japanese Studies.
 
 <!-- #### Domestic conference | 国内学会 -->
-#### Internal conference | 国内学会
+#### Domestic conference | 国内学会
 - 2022 横田采佳・菊池康太・尼岡利崇. Bquarium Display, 映像情報メディア学会 映像表現・芸術科学フォーラム2022, vol.46, no.10, pp127-130(共著). <a href="https://www.ite.or.jp/ken/paper/20220308DA9u/" target="_blank">[Link]</a>
 - 2022 石井裕己, 菊池康太, 尼岡利崇. 電子制御を介して実世界で音を奏でるサウンドインタラクティブシステムの提案 ～ sTone 未知端楽器 ～, 映像情報メディア学会 映像表現・芸術科学フォーラム2022, vol.46, no.10, pp1-4(共著). <a href="https://www.ite.or.jp/ken/paper/20220308hA9u/" target="_blank">[Link]</a>
 - 2019 若宮礼奈, 菊池康太, 遠藤勝也, 尼岡利崇. Color Avatar : 個性を可視化するインタラクティブアート, 芸術科学会 NICOGRAPH2019(共著). <a href="https://www.art-science.org/nicograph/nico2019/program.html" target="_blank">[Link]</a>
