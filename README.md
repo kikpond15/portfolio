@@ -37,6 +37,7 @@ delete content apply
 
 ```
 hugo --cleanDestinationDir
+
 ```
 
 
