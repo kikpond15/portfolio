@@ -5,9 +5,9 @@ title = "Publication"
 
 
 #### Journal | 学術論文
-- 2022　菊池康太, 尼岡利崇. FabKUI : KUIとスマートフォンARを用いた実空間における共同3Dモデリング手法の提案, 芸術科学会論文誌第21巻第1号, pp23-36. <a href="https://www.art-science.org/journal/v21n1/v21n1pp23/artsci-v21n1pp23.pdf" target="_blank">[PDF]</a>
-- 2019　菊池康太, 尼岡利崇. Augmented Shadow Media：KUIを応用した影のメディア的性質を拡張するインタラクティブメディアの提案, 芸術科学会論文誌第18巻第4号, pp134-142. <a href="rt-science.org/journal/v18n4/v18n4pp134/artsci-v18n4pp134.pdf" target="_blank">[PDF]</a>
-- 2017　菊池康太, 尼岡利崇. 影ユーザーインタフェース：影をインタフェースとした実体とのインタラクション手法の提案, 芸術科学会論文誌第16巻第4号, pp130-137. <a href="https://www.art-science.org/journal/v16n4/v16n4pp130/artsci-v16n4pp130.pdf" target="_blank">[PDF]</a>
+- 2022 菊池康太, 尼岡利崇. FabKUI : KUIとスマートフォンARを用いた実空間における共同3Dモデリング手法の提案, 芸術科学会論文誌第21巻第1号, pp23-36. <a href="https://www.art-science.org/journal/v21n1/v21n1pp23/artsci-v21n1pp23.pdf" target="_blank">[PDF]</a>
+- 2019 菊池康太, 尼岡利崇. Augmented Shadow Media：KUIを応用した影のメディア的性質を拡張するインタラクティブメディアの提案, 芸術科学会論文誌第18巻第4号, pp134-142. <a href="rt-science.org/journal/v18n4/v18n4pp134/artsci-v18n4pp134.pdf" target="_blank">[PDF]</a>
+- 2017 菊池康太, 尼岡利崇. 影ユーザーインタフェース：影をインタフェースとした実体とのインタラクション手法の提案, 芸術科学会論文誌第16巻第4号, pp130-137. <a href="https://www.art-science.org/journal/v16n4/v16n4pp130/artsci-v16n4pp130.pdf" target="_blank">[PDF]</a>
 
 #### International conference | 国際学会
 - 2022 Miu.Kanematsu, Kaito.Shimizu, Yuma.Okamura, Toshitaka.Amaoka, Takuya.Taketomi, Kouta.Kikuchi, Katsuya.Endoh. Ywine -Proposal to produce a cafe in the COVID-19 crisis-, The Socity of Art and Science NICOGRAPH International 2022, pp16-16 (co-author). <a href="https://www.art-science.org/nicograph/nicoint2022/index.html" target="_blank">[Link]</a>
@@ -42,8 +42,9 @@ title = "Publication"
 
 
 #### 学会誌 | Academic journal
-- 2021 Society of Art and Science Publication DiVA, Vol.51 p26. <a href="https://art-science.org/diva/pdf/diva51-hq.pdf#page=26" target="_blank">[PDF]</a>
 - 2022 Society of Art and Science Publication DiVA, Vol.52 p48. <a href="https://art-science.org/diva/pdf/diva52-hq.pdf#page=50" target="_blank">[PDF]</a>
+- 2021 Society of Art and Science Publication DiVA, Vol.51 p26. <a href="https://art-science.org/diva/pdf/diva51-hq.pdf#page=26" target="_blank">[PDF]</a>
+
 
 #### Book | 書籍
 - 2022 武富拓也. 学際的PBLにおけるインタラクティブ・システム開発と実践報告 ~ディスコース分析の観点から~, 明星大学情報学部発行, タマプリント出版, ISBN 9784991131738. (共著)
