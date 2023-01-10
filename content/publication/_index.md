@@ -10,7 +10,7 @@ title = "Publication"
 - 2017　菊池康太, 尼岡利崇. 影ユーザーインタフェース：影をインタフェースとした実体とのインタラクション手法の提案, 芸術科学会論文誌第16巻第4号, pp130-137. <a href="https://www.art-science.org/journal/v16n4/v16n4pp130/artsci-v16n4pp130.pdf" target="_blank">[PDF]</a>
 
 #### International conference | 国際学会
-- 2022 Miu.Kanematsu, Kaito.Shimizu, Yuma.Okamura, Toshitaka.Amaoka, Takuya.Taketomi, Kouta.Kikuchi, Katsuya.Endoh. Ywine -Proposal to produce a cafe in the COVID-19 crisis-, The Socity of Art and Science NICOGRAPH International 2022, pp16-16. <a href="https://www.art-science.org/nicograph/nicoint2022/index.html" target="_blank">[Link]</a>
+- 2022 Miu.Kanematsu, Kaito.Shimizu, Yuma.Okamura, Toshitaka.Amaoka, Takuya.Taketomi, Kouta.Kikuchi, Katsuya.Endoh. Ywine -Proposal to produce a cafe in the COVID-19 crisis-, The Socity of Art and Science NICOGRAPH International 2022, pp16-16 (co-author). <a href="https://www.art-science.org/nicograph/nicoint2022/index.html" target="_blank">[Link]</a>
 - 2021 K.Kikuchi, T.Amaoka. KUI Based Modeling : A Study for Real World Oriented Modeling Using Real Shadow as an Interface, International Workshop on Advanced Image Technology(IWAIT). <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11766/117661R/KUI-based-modeling--a-study-for-real-world-oriented/10.1117/12.2591011.short?SSO=1" target="_blank">[SPIE]</a>
 - 2020 K.Kikuchi, T.Amaoka. KUI Based Puppet, The Socity of Art and Science NICOGRAPH International 2020, pp95-95. <a href="https://ieeexplore.ieee.org/document/9122370" target="_blank">[IEEE Xplore]</a>
 - 2018 K.Kikuchi, T.Amaoka. Animated KUI, The Socity of Art and Science NICOGRAPH International 2018, pp88-88. <a href="https://ieeexplore.ieee.org/document/8444807" target="_blank">[IEEE Xplore]</a>
