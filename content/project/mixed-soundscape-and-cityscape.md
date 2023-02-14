@@ -1,5 +1,5 @@
 +++
-title = "Mixted Sound"
+title = "混ざる音，街の景"
 draft = false
 image = "img/project/mixed-sound-city-scape01.jpg"
 showonlyimage = false
