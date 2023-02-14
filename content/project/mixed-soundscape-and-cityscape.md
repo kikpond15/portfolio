@@ -1,6 +1,6 @@
 +++
 title = "混ざる音，街の景"
-draft = false
+draft = true
 image = "img/project/mixed-sound-city-scape01.JPG"
 showonlyimage = false
 date = 2023-02-14T17:40:36+09:00
