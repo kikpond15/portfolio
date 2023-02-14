@@ -26,6 +26,7 @@ title = "Kouta Kikuchi"
 - 2017年　芸術科学会 NICOGRAPH2017　優秀論文賞
 
 #### Exhibition&Workshop | 展示&ワークショップ
+- 2023年　<a href="https://www.meisei-u.ac.jp/2023/2023020102.html" target="_blank">TAMABLE展</a>
 - 2022年  <a href="https://c2f.p5js.jp/exhibitions/1st.html" target="_blank">Code to Frame</a>
 - 2019年  <a href="https://www.meisei-u.ac.jp/2019/2019121202.html" target="_blank">JAM2019-影のステンドグラス</a>
 - 2018年  <a href="https://makezine.jp/event/makers2018/m0071/" target="_blank">Maker Faier Tokyo 2018</a> / <a href="ttps://twitter.com/itachin/status/1025611675162963968?s=21&t=8BvAgQuPfgVOck7BPlySKg" target="_blank">作品動画</a>
