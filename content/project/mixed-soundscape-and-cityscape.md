@@ -1,7 +1,7 @@
 +++
 title = "Mixted Sound"
 draft = false
-image = "img/project/mixed-sound-city-scape01.JPG"
+image = "img/project/mixed-sound-city-scape01.jpg"
 showonlyimage = false
 date = 2023-02-14T17:40:36+09:00
 weight = -202302
