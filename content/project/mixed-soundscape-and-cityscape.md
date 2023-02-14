@@ -9,7 +9,6 @@ weight = -202302
 
 Mixed soundscape and cityscape.  
 This work was exhibited at the "TAMABLE Exhibition" held at Parthenon Tama in Tokyo.  
-
 <span style="color: red; ">Artwork</span> 2023
 <!--more-->
 
