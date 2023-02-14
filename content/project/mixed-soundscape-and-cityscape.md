@@ -20,11 +20,18 @@ This work was exhibited at the "TAMABLE Exhibition" held at Parthenon Tama in To
 
 
 ![mixed-sound-city-scape01](../../img/project/mixed-sound-city-scape01.jpg)
+
 ![mixed-sound-city-scape02](../../img/project/mixed-sound-city-scape02.jpg)
+
 ![mixed-sound-city-scape03](../../img/project/mixed-sound-city-scape03.jpg)
+
 ![mixed-sound-city-scape04](../../img/project/mixed-sound-city-scape04.jpg)
+
 ![mixed-sound-city-scape05](../../img/project/mixed-sound-city-scape05.jpg)
+
 ![mixed-sound-city-scape06](../../img/project/mixed-sound-city-scape06.jpg)
+
 ![mixed-sound-city-scape07](../../img/project/mixed-sound-city-scape07.jpg)
+
 ![mixed-sound-city-scape08](../../img/project/mixed-sound-city-scape08.jpg)
 
