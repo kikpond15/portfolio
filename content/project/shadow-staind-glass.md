@@ -7,7 +7,7 @@ date = 2022-04-17T23:01:48+09:00
 weight = -201901
 +++
 
-<span style="color: red;">Artwork / Exhibition</span> 2019
+<span style="color: red;">Artwork</span> / <span style="color : #03ad8b">Workshop</span> 2019
 <!--more-->
 
 
