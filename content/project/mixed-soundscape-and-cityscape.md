@@ -13,7 +13,7 @@ This work was exhibited at the "TAMABLE Exhibition" held at Parthenon Tama in To
 <!--more-->
 
 #### Artists
-Katsuya Endoh, Miu Kanematsu, Kouta Kikuchi. 
+[Katsuya Endoh](https://enkatsu.org/ja/biography/), Miu Kanematsu, Kouta Kikuchi. 
 
 #### About
 京王線が走る多摩川の音、草木がざわめく緑道の音、多摩センターを行き交う人々の音。
