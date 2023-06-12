@@ -19,9 +19,10 @@ title = "Kouta Kikuchi"
 - 2017年　明星大学 情報学部 情報学科 卒業
 
 #### 受賞歴&業績 / Award&Achievement
+- 2023年　The Socity of Art and Science NICOGRAPH International2023 Best Poster Award (co-author)
 - 2022年　芸術科学会 NICOGRAPH2022　デモ発表賞(共著)
 - 2022年　明星大学大学院2022年度　博士特待生
-- 2020年　日本学生支援機構　業績優秀者認定内定(博士)
+- 2020年　日本学生支援機構　業績優秀者認定(博士)
 - 2019年　芸術科学会 NICOGRAPH2019　ポスター発表賞(共著)
 - 2019年　芸術科学会 NICOGRAPH2019　優秀論文賞
 - 2019年　日本学生支援機構　業績優秀者認定(修士)
