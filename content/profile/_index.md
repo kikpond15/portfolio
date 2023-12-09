@@ -18,7 +18,13 @@ title = "Kouta Kikuchi"
 - 2019年　明星大学大学院 情報学研究科 情報学専攻 博士前期課程 修了
 - 2017年　明星大学 情報学部 情報学科 卒業
 
+#### 職歴 / Work　Experience
+- 2023年　東京未来大学 通信教育課程 非常勤講師
+- 2023年　明星大学 情報学部 実習指導員
+
 #### 受賞歴&業績 / Award&Achievement
+- 2023年　芸術科学会 NICOGRAPH2023　優秀論文賞
+- 2023年　芸術科学会 NICOGRAPH2023　ポスター発表賞(共著)
 - 2023年　The Socity of Art and Science NICOGRAPH International2023 Best Poster Award (co-author)
 - 2022年　芸術科学会 NICOGRAPH2022　デモ発表賞(共著)
 - 2022年　明星大学大学院2022年度　博士特待生
@@ -31,11 +37,12 @@ title = "Kouta Kikuchi"
 - 2017年　芸術科学会 NICOGRAPH2017　優秀論文賞
 
 #### 展示&ワークショップ / Exhibition&Workshop
+- 2023年　<a href="https://openlab.is.meisei-u.ac.jp/2023/11/28/390/" target="_blank">Code to [ ... ] プログラムコードから作られる創作物</a>
 - 2023年　<a href="https://www.meisei-u.ac.jp/2023/2023020102.html" target="_blank">TAMABLE展</a>
-- 2022年  <a href="https://c2f.p5js.jp/exhibitions/1st.html" target="_blank">Code to Frame</a>
-- 2019年  <a href="https://www.meisei-u.ac.jp/2019/2019121202.html" target="_blank">JAM2019-影のステンドグラス</a>
-- 2018年  <a href="https://makezine.jp/event/makers2018/m0071/" target="_blank">Maker Faier Tokyo 2018</a> / <a href="ttps://twitter.com/itachin/status/1025611675162963968?s=21&t=8BvAgQuPfgVOck7BPlySKg" target="_blank">作品動画</a>
-- 2016~18年  <a href="https://www.ospn.jp/" target="_blank">Open Source Conference Tokyo</a> / 
+- 2022年　<a href="https://c2f.p5js.jp/exhibitions/1st.html" target="_blank">Code to Frame</a>
+- 2019年　<a href="https://www.meisei-u.ac.jp/2019/2019121202.html" target="_blank">JAM2019-影のステンドグラス</a>
+- 2018年　<a href="https://makezine.jp/event/makers2018/m0071/" target="_blank">Maker Faier Tokyo 2018</a> / <a href="ttps://twitter.com/itachin/status/1025611675162963968?s=21&t=8BvAgQuPfgVOck7BPlySKg" target="_blank">作品動画</a>
+- 2016~18年　<a href="https://www.ospn.jp/" target="_blank">Open Source Conference Tokyo</a> / 
 <a href="https://www.ospn.jp/press/20160310tokyospring-report.html/img_9978" target="_blank">2016</a> / 
 <a href="https://www.ospn.jp/press/20171003osc2017-tokyofall-report.html/img_4027-2" target="_blank">2017</a> / 
 <a href="https://www.ospn.jp/press/20180313osc2017-tokyospring.html/img_8813" target="_blank">2018</a> 
