@@ -4,13 +4,13 @@ draft = false
 image = "img/project/molebot-display.jpg"
 showonlyimage = false
 date = 2023-12-06T17:57:21+09:00
-weight = -202312
+weight = -20231230
 +++
 Proposal of Sand Display Using Iron Sand and a Miniature Robot  
 <span style="color: blue; ">Research</span>  2023
 <!--more-->
 
-
+#### About
 Ambient displays that use natural objects and phenomena as displays in real space have been studied.  
 These ambient displays can present information suitable for the human living environment by using natural physical phenomena as metaphors.
 In this study, we propose the "Molebot Display," which displays information by controlling a small robot and using an iron sand as a display.
