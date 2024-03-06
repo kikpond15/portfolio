@@ -6,8 +6,15 @@
     <description>Recent content in Projects on Kota Kikuchi - kikportfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Sat, 09 Dec 2023 15:38:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 15:40:58 +0900</lastBuildDate>
     <atom:link href="https://www.kikpond.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Robotic Drum Machine Workshop</title>
+      <link>https://www.kikpond.com/project/robotic-drum-machine/</link>
+      <pubDate>Wed, 06 Mar 2024 15:40:58 +0900</pubDate>
+      <guid>https://www.kikpond.com/project/robotic-drum-machine/</guid>
+      <description>&lt;p&gt;Collaborative Workshop by Department of Design &amp;amp; Informatics at Meisei University&lt;br&gt;&#xA;&lt;span style=&#34;color: green; &#34;&gt;Workshop&lt;/span&gt;  2024&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Molebot Display</title>
       <link>https://www.kikpond.com/project/molebot-display/</link>
