@@ -18,7 +18,7 @@ Code to Frameは、プログラム(Code)によって作り出された動的な�
 静的な絵画のように額縁へプリントするためのフレームワークと、その展示形態を指します。
 Code to Frameの展示形態は、あえて動的なデジタルアートの1フレームを切り取り、
 鑑賞者へ静的な額縁として提示します。鑑賞者は額縁下部のQRコードを読み取る事で、
-そのフレームに隠された動的なデジタルアートを自らの意思で鑑賞しに行くことが出来ます。
+そのフレームに隠された動的なデジタルアートを自らの意思で鑑賞しに行くことができます。
 
 - <a href="https://c2f.p5js.jp/" target="_blank">code to frame web site</a>
 - <a href="https://kikpond15.github.io/code2frame/" target="_blank">make code2frame</a>
