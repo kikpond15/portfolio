@@ -31,13 +31,3 @@ Code to Frameの展示形態は、あえて動的なデジタルアートの1フ
 
 ![code to frame EX](../../img/project/code2frame01.jpg)
 
-![code to frame EX](../../img/project/code2frame02.jpg)
-
-![code to frame EX](../../img/project/code2frame04.jpg)
-
-![code to frame EX](../../img/project/code2frame05.jpg)
-
-![code to frame EX](../../img/project/code2frame07.jpg)
-
-![code to frame EX](../../img/project/code2frame10.jpg)
-
