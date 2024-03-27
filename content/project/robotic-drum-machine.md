@@ -14,6 +14,7 @@ Collaborative Workshop by Department of Design & Informatics at Meisei Universit
 Shosei Oishi, Katuya Endoh, Takuya Taketomi, Kouta Kikuchi.
 
 #### About
+[OpenLab Blog](https://openlab.is.meisei-u.ac.jp/2024/03/08/538/)
 
 {{< youtube Lc7LvnoWEk0 >}}
 <p>

@@ -19,8 +19,8 @@ title = "Kouta Kikuchi"
 - 2017年　明星大学 情報学部 情報学科 卒業
 
 #### 職歴 / Work Experience
-- 2023年　東京未来大学 通信教育課程 非常勤講師
-- 2023年　明星大学 情報学部 実習指導員
+- 2023年~　東京未来大学 通信教育課程 非常勤講師
+- 2023年~　明星大学 情報学部 実習指導員
 
 #### 受賞歴&業績 / Award&Achievement
 - 2023年　芸術科学会 NICOGRAPH2023　優秀論文賞
@@ -37,6 +37,7 @@ title = "Kouta Kikuchi"
 - 2017年　芸術科学会 NICOGRAPH2017　優秀論文賞
 
 #### 展示&ワークショップ / Exhibition&Workshop
+- 2024年　<a href="https://openlab.is.meisei-u.ac.jp/2024/03/08/538/" target="_blank">情報学科オープンラボ主催：デザイン学科＆情報学部共同ワークショップ『Robotic Drum Machineの制作と演奏体験』</a>
 - 2024年　<a href="https://www.is.meisei-u.ac.jp/news/1096/" target="_blank">Hunga-Re-Collection展 国際コミュニケーション学科x情報学科協働プロジェクト成果発表展示</a>
 - 2023年　<a href="https://openlab.is.meisei-u.ac.jp/2023/11/28/390/" target="_blank">Code to [ ... ] プログラムコードから作られる創作物</a>
 - 2023年　<a href="https://www.meisei-u.ac.jp/2023/2023020102.html" target="_blank">TAMABLE展</a>
