@@ -37,9 +37,11 @@ title = "Kouta Kikuchi"
 - 2017年　芸術科学会 NICOGRAPH2017　優秀論文賞
 
 #### 展示&ワークショップ / Exhibition&Workshop
+- 2024年　<a href="https://www.is.meisei-u.ac.jp/news/1709/" target="_blank">OpenLab Autumn Workshop2024「3Dプリンタを触ってみよう」</a>
 - 2024年　<a href="https://openlab.is.meisei-u.ac.jp/2024/03/08/538/" target="_blank">情報学科オープンラボ主催：デザイン学科＆情報学部共同ワークショップ『Robotic Drum Machineの制作と演奏体験』</a>
 - 2024年　<a href="https://www.is.meisei-u.ac.jp/news/1096/" target="_blank">Hunga-Re-Collection展 国際コミュニケーション学科x情報学科協働プロジェクト成果発表展示</a>
 - 2023年　<a href="https://openlab.is.meisei-u.ac.jp/2023/11/28/390/" target="_blank">Code to [ ... ] プログラムコードから作られる創作物</a>
+- 2023年　<a href="https://openlab.is.meisei-u.ac.jp/workshop/875/" target="_blank">OpenLab Autumn Workshop2023「プログラミングで動く絵画を作ろう」</a>
 - 2023年　<a href="https://www.meisei-u.ac.jp/2023/2023020102.html" target="_blank">TAMABLE展</a>
 - 2022年　<a href="https://c2f.p5js.jp/exhibitions/1st.html" target="_blank">Code to Frame</a>
 - 2019年　<a href="https://www.meisei-u.ac.jp/2019/2019121202.html" target="_blank">JAM2019-影のステンドグラス</a>

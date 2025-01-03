@@ -4,10 +4,17 @@
     <title>Projects on Kota Kikuchi - kikportfolio</title>
     <link>https://www.kikpond.com/project/</link>
     <description>Recent content in Projects on Kota Kikuchi - kikportfolio</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>jp</language>
-    <lastBuildDate>Wed, 06 Mar 2024 15:40:58 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 14:52:12 +0900</lastBuildDate>
     <atom:link href="https://www.kikpond.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Printed Light Series</title>
+      <link>https://www.kikpond.com/project/3d-printed-lights/</link>
+      <pubDate>Fri, 03 Jan 2025 14:52:12 +0900</pubDate>
+      <guid>https://www.kikpond.com/project/3d-printed-lights/</guid>
+      <description>&lt;p&gt;A series of lights created with a 3D printer&lt;br&gt;&#xA;&lt;span style=&#34;color: red; &#34;&gt;Artwork&lt;/span&gt; 2024&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Robotic Drum Machine Workshop</title>
       <link>https://www.kikpond.com/project/robotic-drum-machine/</link>
