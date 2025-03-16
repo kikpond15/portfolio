@@ -11,7 +11,7 @@ create new site
 hugo new site siteName
 ```
 
-add new content in project
+add new content in project 
 
 ```
 hugo new  project/contentName.md

@@ -7,7 +7,7 @@ date = 2025-03-16T18:02:30+09:00
 weight = -20250305
 +++
 
-OpenLab Workshop JAM2025
+OpenLab Workshop JAM2025  
 <span style="color: green; ">Workshop</span>  2025
 <!--more-->
 
