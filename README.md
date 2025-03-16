@@ -11,10 +11,10 @@ create new site
 hugo new site siteName
 ```
 
-add new content
+add new content in project
 
 ```
-hugo new  directory/contentName.md
+hugo new  project/contentName.md
 ```
 
 view site(local)

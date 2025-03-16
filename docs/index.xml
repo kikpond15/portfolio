@@ -6,8 +6,15 @@
     <description>Recent content on Kota Kikuchi - kikportfolio</description>
     <generator>Hugo</generator>
     <language>jp</language>
-    <lastBuildDate>Fri, 03 Jan 2025 14:52:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 18:02:30 +0900</lastBuildDate>
     <atom:link href="https://www.kikpond.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Rube Goldberg Machine Connecting Spaces</title>
+      <link>https://www.kikpond.com/project/rube-goldberg-machine/</link>
+      <pubDate>Sun, 16 Mar 2025 18:02:30 +0900</pubDate>
+      <guid>https://www.kikpond.com/project/rube-goldberg-machine/</guid>
+      <description>&lt;p&gt;OpenLab Workshop JAM2025&#xA;&lt;span style=&#34;color: green; &#34;&gt;Workshop&lt;/span&gt;  2025&lt;/p&gt;</description>
+    </item>
     <item>
       <title>3D Printed Light Series</title>
       <link>https://www.kikpond.com/project/3d-printed-lights/</link>
