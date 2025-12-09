@@ -20,15 +20,15 @@ Kouta Kikuchi, Shosei Oishi, [Katsuya Endoh](https://enkatsu.org/ja/biography/).
 - [Maker Faire Tokyo 2025 : 明星大学 情報学部 OpenLab](https://makezine.jp/event/makers-mft2025/m0213/)
 
 
-![Rube Goldberg Machine Workshop01](../../img/project/rube-goldberg-machine.jpg)
+![Rube Goldberg Machine Workshop](../../img/project/rube-goldberg-machine.jpg)
 
 ![Robotic Drum Machine Workshop01](../../img/project/rube-goldberg-machine01.JPG)
 
-![Robotic Drum Machine Workshop01](../../img/project/rube-goldberg-machine02.JPG)
+![Robotic Drum Machine Workshop02](../../img/project/rube-goldberg-machine02.jpg)
 
-![Robotic Drum Machine Workshop01](../../img/project/rube-goldberg-machine03.JPG)
+![Robotic Drum Machine Workshop03](../../img/project/rube-goldberg-machine03.JPG)
 
-![Robotic Drum Machine Workshop01](../../img/project/rube-goldberg-machine04.JPG)
+![Robotic Drum Machine Workshop04](../../img/project/rube-goldberg-machine04.JPG)
 
 
 
