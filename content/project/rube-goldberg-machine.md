@@ -36,9 +36,9 @@ Kouta Kikuchi, Shosei Oishi, [Katsuya Endoh](https://enkatsu.org/ja/biography/).
 {{< youtube 2ZWBTATCbqU >}}
 <br>
 
-![MFT2025-04](../../img/project/mft25-04.JPG)
+![MFT2025-04](../../img/project/mft25-04.jpg)
 
-![MFT2025-03](../../img/project/mft25-03.JPG)
+![MFT2025-03](../../img/project/mft25-03.jpg)
 
 ![MFT2025-02](../../img/project/mft25-02.JPG)
 
