@@ -8,7 +8,8 @@ weight = -20250305
 +++
 
 OpenLab Workshop JAM2025  
-<span style="color: green; ">Workshop</span>  2025
+<span style="color: green; ">Workshop</span> / <span style="color : orange">Exhibition</span>
+2025
 <!--more-->
 
 #### Organizer
