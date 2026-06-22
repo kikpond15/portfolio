@@ -11,7 +11,7 @@ title = "Publication"
 
 #### 国際学会 / International conference
 - 2026 
-Kouta Kikuchi, Katsuya Endoh, Shousei Oishi and Manami Kishino. Ra-Geocaching : Workshop on Landscape Geocaching Using Radio, The Socity of Art and Science NICOGRAPH International 2026. <a href="https://www.art-science.org/nicograph/nicoint2026/#:~:text=Ra%2DGeocaching%20%3A%20Workshop%20on%20Landscape%20Geocaching%20Using%20Radio" target="_blank">[Link]</a>
+Kouta Kikuchi, Katsuya Endoh, Shousei Oishi and Manami Kishino. Ra-Geocaching : Workshop on Landscape Geocaching Using Radio, The Socity of Art and Science NICOGRAPH International 2026, <span style="color: coral; ">Best Poster Award</span>. <a href="https://www.art-science.org/nicograph/nicoint2026/#:~:text=Ra%2DGeocaching%20%3A%20Workshop%20on%20Landscape%20Geocaching%20Using%20Radio" target="_blank">[Link]</a>
 - 2026 
 Karen Tsuji, Kota Kikuchi and Toshitaka Amaoka. Stellar Trace: Embodied Transformation of Cosmic Scale Through the Accumulation of Experience Time, The Socity of Art and Science NICOGRAPH International 2026 (co-author). <a href="https://www.art-science.org/nicograph/nicoint2026/#:~:text=Stellar%20Trace%3A%20Embodied%20Transformation%20of%20Cosmic%20Scale%20Through%20the%20Accumulation%20of%20Experience%20Time" target="_blank">[Link]</a>
 - 2026 

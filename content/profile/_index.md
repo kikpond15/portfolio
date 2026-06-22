@@ -26,6 +26,7 @@ title = "Kouta Kikuchi"
 
 
 #### 受賞歴&業績 / Award&Achievement
+- 2026年　The Socity of Art and Science NICOGRAPH International2026 Best Poster Award
 - 2023年　芸術科学会 NICOGRAPH2023　優秀論文賞
 - 2023年　芸術科学会 NICOGRAPH2023　ポスター発表賞(共著)
 - 2023年　The Socity of Art and Science NICOGRAPH International2023 Best Poster Award (co-author)
