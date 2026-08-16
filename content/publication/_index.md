@@ -5,6 +5,7 @@ title = "Publication"
 
 
 #### 学術論文 / Journal
+- 2023 菊池康太. 影を用いた実世界指向インタフェースによるインタラクションの研究とその応用, 学位取得論文.
 - 2022 菊池康太, 尼岡利崇. FabKUI : KUIとスマートフォンARを用いた実空間における共同3Dモデリング手法の提案, 芸術科学会論文誌第21巻第1号, pp23-36. <a href="https://www.art-science.org/journal/v21n1/v21n1pp23/artsci-v21n1pp23.pdf" target="_blank">[PDF]</a>
 - 2019 菊池康太, 尼岡利崇. Augmented Shadow Media：KUIを応用した影のメディア的性質を拡張するインタラクティブメディアの提案, 芸術科学会論文誌第18巻第4号, pp134-142. <a href="rt-science.org/journal/v18n4/v18n4pp134/artsci-v18n4pp134.pdf" target="_blank">[PDF]</a>
 - 2017 菊池康太, 尼岡利崇. 影ユーザーインタフェース：影をインタフェースとした実体とのインタラクション手法の提案, 芸術科学会論文誌第16巻第4号, pp130-137. <a href="https://www.art-science.org/journal/v16n4/v16n4pp130/artsci-v16n4pp130.pdf" target="_blank">[PDF]</a>

@@ -41,6 +41,7 @@ title = "Kouta Kikuchi"
 - 2017年　芸術科学会 NICOGRAPH2017　優秀論文賞
 
 #### 展示&ワークショップ / Exhibition&Workshop
+- 2026年　<a href="https://makezine.jp/event/makers-mft2026/m0137/" target="_blank">Maker Faire Tokyo 2026</a>
 - 2025年　<a href="https://makezine.jp/event/makers-mft2025/m0213/" target="_blank">Maker Faire Tokyo 2025</a>
 - 2025年　<a href="https://openlab.is.meisei-u.ac.jp/2025/03/12/952/" target="_blank">OpenLab Worshop「JAM2025:空間をつなぐRube Goldberg machineの制作」</a>
 - 2024年　<a href="https://www.is.meisei-u.ac.jp/news/1709/" target="_blank">OpenLab Autumn Workshop2024「3Dプリンタを触ってみよう」</a>
